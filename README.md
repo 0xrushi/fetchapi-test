@@ -1,9 +1,15 @@
 # Fetch Rewards Coding Exercise 
 The API is built using the Python language. I am using fastAPI for the Backend API implementation.
-
-### Install the libraries
+### Clone and Install the libraries
 
 ```
+
+git clone https://github.com/rushic24/fetchapi-test.git && cd fetchapi-test
+
+pip install -r requirements.txt 
+
+or
+
 pip install pandas fastapi pydantic "uvicorn[standard]"
 ```
 
